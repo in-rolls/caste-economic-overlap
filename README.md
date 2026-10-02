@@ -75,6 +75,6 @@ These are descriptive comparisons. They do not estimate the causal effect of
 caste or settle a policy question. `Others` is a residual category, not a verified upper-caste classification;
 its meaning differs between NSS and IHDS. Household shares are not person shares.
 
-The separate [Passing Glance synthesis](../passing-glance/README.md) connects
+The separate [Passing Glance synthesis](../caste-social-signals/README.md) connects
 these economic distributions to the information a stranger can obtain from
 names, visible material circumstances and context.

@@ -6,7 +6,7 @@ performed. Counts are snapshots of local files, not completed statewide censuses
 
 ## Rajasthan Record of Rights
 
-Sources: `../rajasthan-ror/src/rajasthan_ror/parse.py`, `plots.py`, README,
+Sources: `../ror_raj_2026/src/rajasthan_ror/parse.py`, `plots.py`, README,
 `raw/villages.parquet` and `raw/pilot/owners.parquet`.
 
 The location file has 50,109 rows representing the portal's location/sheet frame;
@@ -43,7 +43,7 @@ A nonmatch to a land record cannot be counted as landlessness.
 
 ## Odisha Record of Rights
 
-Sources: `../odisha-ror/parse_ror.py`, `fetch_ror.py`, README,
+Sources: `../ror_odisha_2026/parse_ror.py`, `fetch_ror.py`, README,
 `raw/villages.parquet` and `raw/tenants.parquet`.
 
 The village frame has 51,823 rows. The tenant extract has **3,056,090 rows**, each
@@ -70,7 +70,7 @@ possibility.
 
 ## Relationship to the synthesis
 
-The [Passing Glance project](../../passing-glance/README.md) asks what a stranger
+The [Passing Glance project](../../caste-social-signals/README.md) asks what a stranger
 can infer from material cues, names and context. These land sources can supply
 independently recorded identity and economic context once measurement is
 validated. Land wealth is usually not observable on the street; it should not be

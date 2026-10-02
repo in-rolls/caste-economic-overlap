@@ -119,7 +119,7 @@ between ₹2,000 and ₹2,500 per person per month may not yield a difference a
 stranger can discern. Perfectly observed income is therefore not the same cue
 as ordinary material appearance. Coarsened income bands and self-reported
 non-facial material profiles can test part of that channel; observer judgments
-need separate evidence. The new [Passing Glance synthesis](../../passing-glance/README.md)
+need separate evidence. The new [Passing Glance synthesis](../../caste-social-signals/README.md)
 connects this question to names, perception research, changing consumer goods
 and income volatility. Economic AUC is one component, not a measure of what a
 passer-by can identify.
